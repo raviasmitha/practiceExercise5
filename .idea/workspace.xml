@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="374bd00a-0c50-45f4-9655-d10fbdd1b88c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/datamunjar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataMungerStep1_Boilerplate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/CheckChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/ChessBoard.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/ConsecutiveNumbers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/FirstException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/GenerateError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/MatrixSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/MyDate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/production/practiceExercise3/com/stackroute/exercise3/StudentMarks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/CheckCharTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/ChessBoardTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/ConsecutiveNumbersTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/MatrixSumTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/MyDateTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/out/test/practiceExercise3/com/stackroute/exercise3/StudentMarksTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/practiceExercise3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/CheckChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/ConsecutiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/FirstException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/GenerateError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/MatrixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/java/com/stackroute/exercise3/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/test/com/stackroute/exercise3/CheckCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/test/com/stackroute/exercise3/ChessBoardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/test/com/stackroute/exercise3/ConsecutiveNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/test/com/stackroute/exercise3/MatrixSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/test/com/stackroute/exercise3/MyDateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiceExercise3/src/main/test/com/stackroute/exercise3/StudentMarksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/ArrayListUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/AscendingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/CheckChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/KeyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/StringCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/AscendingOrderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/CheckCharTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/KeyValueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/StringCountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/production/practiseExercise2/com/stackroute/exercise2/CheckPower.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/production/practiseExercise2/com/stackroute/exercise2/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/production/practiseExercise2/com/stackroute/exercise2/IsEven.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/production/practiseExercise2/com/stackroute/exercise2/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/production/practiseExercise2/com/stackroute/exercise2/Member_Variable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/production/practiseExercise2/com/stackroute/exercise2/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/production/practiseExercise2/com/stackroute/exercise2/StudentGrades.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/test/practiseExercise2/com/stackroute/exercise2/CheckPowerTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/test/practiseExercise2/com/stackroute/exercise2/FactorialTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/test/practiseExercise2/com/stackroute/exercise2/IsEvenTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/test/practiseExercise2/com/stackroute/exercise2/MemberTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/test/practiseExercise2/com/stackroute/exercise2/PalindromeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/out/test/practiseExercise2/com/stackroute/exercise2/StudentGradesTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/practiseExercise2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/java/com/stackroute/exercise2/CheckPower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/java/com/stackroute/exercise2/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/java/com/stackroute/exercise2/IsEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/java/com/stackroute/exercise2/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/java/com/stackroute/exercise2/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/java/com/stackroute/exercise2/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/test/com/stackroute/exercise2/CheckPowerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/test/com/stackroute/exercise2/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/test/com/stackroute/exercise2/IsEvenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/test/com/stackroute/exercise2/MemberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/test/com/stackroute/exercise2/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise2/src/main/test/com/stackroute/exercise2/StudentGradesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/MultipleOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/Occurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/RegularExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/Replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/java/com/stackroute/exercise4/TransposeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/MultipleOccurenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/OccurenceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/RegularExpressionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/ReplaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../practiseExercise4/src/main/test/com/stackroute/exercise4/TransposeWordsTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+              <folding>
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#558#559#0" expanded="true" />
+                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#619#620#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#677#678#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
+                <element signature="e#776#777#0" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#837#838#0" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/CheckCharTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/AscendingOrderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/StudentTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="653">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/ArrayListUpdate.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/StringCount.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/StringCountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/ArrayListUpdateTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/CheckChar.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/AsscendingOrderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/AsscendingOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/AscendingOrderTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/KeyVaue.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/KeyVaueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/CheckCharTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/KeyValueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/StudentTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="133" />
+    <option name="y" value="47" />
+    <option name="width" value="1400" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="Student.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practiceExercise5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practiceExercise5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stackroute" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../hamcrest-all-1.3.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.stackroute.exercise5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.StudentTest.testStudentSameStartingLetter">
+    <configuration name="CheckCharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceExercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise5.CheckCharTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceExercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise5.KeyValueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceExercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise5.StudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.testNUllValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceExercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise5.StudentTest" />
+      <option name="METHOD_NAME" value="testNUllValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.testStudentSameStartingLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practiceExercise5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.exercise5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.exercise5" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.exercise5.StudentTest" />
+      <option name="METHOD_NAME" value="testStudentSameStartingLetter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentTest.testStudentSameStartingLetter" />
+        <item itemvalue="JUnit.StudentTest" />
+        <item itemvalue="JUnit.StudentTest.testNUllValue" />
+        <item itemvalue="JUnit.KeyValueTest" />
+        <item itemvalue="JUnit.CheckCharTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="374bd00a-0c50-45f4-9655-d10fbdd1b88c" name="Default Changelist" comment="" />
+      <created>1562211913515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562211913515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AscendingOrderTest_testSortArrayListUsingSortedSetNumbers - 2019.07.04 at 12h 38m 05s.xml">
+      <configuration name="AscendingOrderTest.testSortArrayListUsingSortedSetNumbers" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AscendingOrderTest - 2019.07.04 at 12h 38m 16s.xml">
+      <configuration name="AscendingOrderTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CheckCharTest - 2019.07.04 at 12h 42m 19s.xml">
+      <configuration name="CheckCharTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="KeyValueTest - 2019.07.04 at 12h 43m 52s.xml">
+      <configuration name="KeyValueTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2019.07.04 at 12h 50m 03s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest_testNUllValue - 2019.07.04 at 14h 24m 09s.xml">
+      <configuration name="StudentTest.testNUllValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest_testNUllValue - 2019.07.04 at 14h 24m 34s.xml">
+      <configuration name="StudentTest.testNUllValue" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest - 2019.07.04 at 14h 25m 04s.xml">
+      <configuration name="StudentTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest_testStudentSameStartingLetter - 2019.07.04 at 15h 23m 20s.xml">
+      <configuration name="StudentTest.testStudentSameStartingLetter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentTest_testStudentSameStartingLetter - 2019.07.04 at 15h 25m 12s.xml">
+      <configuration name="StudentTest.testStudentSameStartingLetter" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24949563" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3297587" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/StringCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/KeyValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/CheckChar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/AscendingOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/ArrayListUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/StringCountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/KeyValueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/ArrayListUpdateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1758#1766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/StudentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="653">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/exercise5/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#558#559#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#619#620#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+            <element signature="e#776#777#0" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/CheckCharTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/exercise5/AscendingOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>practiceExercise5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
